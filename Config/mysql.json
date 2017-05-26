@@ -1,0 +1,7 @@
+{
+	"hostname": "127.0.0.1",
+	"user": "__MYSQL_USER__",
+	"password": "__MYSQL_PASSWORD__",
+	"database": "__MYSQL_DATABASE__",
+	"encoding": "utf8"
+}
